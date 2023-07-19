@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+		<div id="container">
+            <img src="https://www.angelfire.lycos.com/doc/images/animate/welcomer.gif" alt="Welcome">
+			<div class="content-contact">
+				<h1>Walker Neudotter</h1>
+				<h4>3610 5th Ave. S.</h4>
+				<h4>Minneapolis, MN 55409</h4>
+				<h4>(319) 330-9447</h4>
+			</div>
+
+			<div id="content-summary">
+				<h3>About Me:</h3>
+				<p>Musician, cook, record collector, community organizer. I have a deep love for bringing people together and sharing experiences. I'm passionate about learning, growing, and I'm always working on improving myself.</p>
+			</div>
+            <img src="https://www.angelfire.lycos.com/doc/images/animate/moveball.gif" alt="Keep it Rollin'">
+			<div id="content-professional"> 
+                <h3>Professional Experience:</h3>
+				<div id="content-modtimes">
+					<h3>Modern Times Cafe</h3>
+					<div class="block-date">
+							<h4>Kitchen Manager</h4>
+							<h4>March 2017 - Current</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>I was the first kitchen manager besides the business owner, so I had to develop my position, indentify gaps in management and oversight, and systems that needed to be strengthened</li>
+								<li>In charge of ordering almost all food and beverages for the restaurant from a number of different providers and local farms</li>
+								<li>Oversaw management of line cook staff, prep staff, bakery staff and dish staff, coordinated scheduling for all four stations, coordinated hiring, firing, and disciplinary measures, as well as training and quality control</li>
+								<li>Directly in charge of food preparation for high end items, and prep for weekly specials.</li>
+                                <li>Proficient in all stations, able to work on the line at a high level and cover shifts if needed, able to execute all prep items at a high level and cover shifts if needed, able to execute all bakery items and cover shifts if needed, proficient at dish washing and able to cover shifts if needed, fundamental understanding of the front of house and able to step in and assist when needed.</li>
+								<li>Assisted in building maintenence, equipment repairs and upkeep</li>
+								<li>Defacto "IT Guy", helped install access points to boost wifi, helped set up various Square Point of Sale systems, helped install new Sonos soundsystems, helped install ring cameras and set up smart thermostats. I am generally the person of contact for issues or upkeep of these systems.</li>
+							</ul>	
+					</div>
+				</div>
+
+
+				<div id="content-deadmedia">
+					<h3>Dead Media Records</h3>
+					<div class"block-date">
+							<h4>Co-Owner/Co-Operator</h4>
+							<h4>November 2014 - September 2018</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Headed the curation and organization of the store's selection</li>
+								<li>Oversaw purchasing and pricing of new and used records and cassettes from various sources</li>
+								<li>Helped develop and maintain inventory systems, learned to make those interact with our point of sale system</li>
+                                <li>In charge of special events and music booking</li>
+								<li>Helped train and hire new volunteers</li>
+                                <li>Helped run day to day business, overseeing cash drawers and volunteer management</li>
+                                <li>Helped in the DIY renovation of two different storefront locations</li>
+							</ul>	
+					</div>
+				</div>
+
+
+				<div id="content-volsteads">
+					<h3>Volstead's Bar</h3>
+					<div class"block-date">
+							<h4>Sous Chef</h4>
+							<h4>October 2015 - April 2017</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Helped open the restaurant, develop menus and initial culinary ethos, helped chose and set up equipment</li>
+								<li>In charge of much of the hiring and training for back of house</li>
+								<li>Directly in charge of food prep execution and recipe development</li>
+                                <li>Communicated with specialists to safely aquire and process foraged foods to use for specials</li>
+							</ul>
+					</div>
+				</div>
+			</div>	
+	  </div>
+
+</body>
+</html>
