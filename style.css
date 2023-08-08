@@ -1,11 +1,23 @@
 body {
-  background-color: lightblue;
-  font-family: helvetica
+  background-image: url('https://compote.slate.com/images/5e48cf3d-0992-4eda-a080-e00e07738b2f.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-shadow: 1px 1px white
 }
-
+    
 h1 {
-	font-family: Arial;
+	font-family: Times New Roman;
 	font-weight: bold;
 	font-size: 50px;
-	text-shadow: #A3A3A3 1px 1px 1px;
+	text-shadow: 2px 2px pink
+}
+
+aside {
+  width: 50%;
+  padding-left: 10px;
+  margin-left: 10px;
+  float: right;
+  font-style: bold;
+  
 }
